@@ -3,8 +3,8 @@ from os import walk
 import time
 
 
-from jobs2 import test as program
-test_dir="31"
+from A_ import test as program
+test_dir="A"
 ShowPrint=False
 def fakeInput():
     global data
